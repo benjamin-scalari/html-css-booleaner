@@ -49,6 +49,7 @@ header{
   padding-left: 1%;
 }
 
+/* impostazione tabella */
 #table-header{
   height: 20px;
   background-color: rgb(32, 169, 229);
@@ -75,9 +76,17 @@ header{
   top: 15px;
   margin-right: 15.5%;
 }
+/* /impostazione tabella */
 
-.content-big{
-  margin: auto;
-  position: relative;
-  top: 15px;  
+/* impostazione pagine correlate */
+.footer{
+  font-size: 115%;
 }
+
+.img-text{
+  position: relative;
+  bottom: 175px;
+  right: 300px;
+  color: white;
+}
+/* impostazione pagine correlate */
