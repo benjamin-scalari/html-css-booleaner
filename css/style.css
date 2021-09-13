@@ -2,6 +2,10 @@ body{
   margin: 0;
 }
 
+main{
+margin-left: 5px;
+}
+
 /* intestazione del sito */
 header{
   height: 100px;
@@ -35,4 +39,12 @@ header{
 
 .photo-credits{
   font-size: 75%;
+}
+
+.highlighted-text{
+  background-color: rgb(255, 255, 0);
+}
+
+#list{
+  padding-left: 1%;
 }
