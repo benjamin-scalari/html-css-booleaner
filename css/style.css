@@ -19,6 +19,7 @@ header{
 }
 /* /intestazione del sito */
 
+/* colore crediti */
 .info{
   color: rgb(128, 128, 128);
 }
@@ -28,5 +29,10 @@ header{
 }
 
 .date{
+  font-size: 80%;
+}
+/* /colore crediti */
+
+.photo-credits{
   font-size: 75%;
 }
