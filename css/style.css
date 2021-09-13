@@ -2,16 +2,35 @@ body{
   margin: 0;
 }
 
+/* intestazione del sito */
 header{
   height: 100px;
   margin: 0 auto;
   background-color: rgb(78, 160, 255);
   background-image: url("../img/pattern.png");
+  background-attachment: fixed;
   background-size: 25%;
 }
 
 #logo{
-  width: 15%;
+  width: 200px;
   position: absolute;
   top: 25px;
+}
+/* /intestazione del sito */
+
+.container{
+  width: 15%;
+}
+
+.info{
+  color: rgb(128, 128, 128);
+}
+
+#writer-id{
+  color: rgb(32, 169, 229);
+}
+
+.date{
+  font-size: 75%;
 }
